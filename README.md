@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @NickNterm
-- 👀 I’m interested in app development, web development, arduino, unity
-- 🌱 I’m currently learning kotlin
-- 💞️ I’m looking to collaborate on whatever 
-- 📫 How to reach me nikolasderm@gmail.com
+# Hello There!! 
+### I am Nick a developer that mostly like to work with Flutter
 
-<!---
-NickNterm/NickNterm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### That's my github stats:
+
+![Nick's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NickNterm&theme=gruvbox)
+![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickNterm&show_icons=true&theme=gruvbox&locale=en)
+
+### You should Look to that projects of mine:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NickNterm&repo=StudentRestaurantUOI&theme=gruvbox)](https://github.com/NickNterm/StudentRestaurantUOI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NickNterm&repo=PowerOffNotifier&theme=gruvbox)](https://github.com/NickNterm/PowerOffNotifier)
